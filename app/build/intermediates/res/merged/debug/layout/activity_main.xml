@@ -23,6 +23,13 @@
         android:layout_toRightOf="@id/drawer_button"
         android:text="Collapsing Toolbar" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/collapsing_toolbar_button"
+        android:text="Text Resize"
+        android:onClick="textResize"/>
+
     <android.support.v4.view.ViewPager
         android:id="@+id/container"
         android:layout_width="wrap_content"

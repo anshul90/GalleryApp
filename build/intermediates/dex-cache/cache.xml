@@ -2,74 +2,94 @@
 <items version="2" >
 
     <item
-        jar="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/me.relex/circleindicator/1.1.9/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="466e486ec23b9da3a7da1d9252eeef449e3bfecd">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/me.relex-circleindicator-1.1.9_708c2a0c6108ff0aef2a660b5d4d02910e5ccb21.jar" />
-    </item>
-    <item
-        jar="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_4ee3a4b86ccf30a8d6f070bce70f5b2b8ce875e4.jar" />
-    </item>
-    <item
-        jar="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="debf30ce0a7560396b6235edef77e447006454c2">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_8816ccd78ff466e42a9fe5f27073b0035f2a4ecb.jar" />
-    </item>
-    <item
-        jar="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_8cca3ab3fc5e5f152cae4cf4d8b0478ccd1e4596.jar" />
-    </item>
-    <item
+        is-multidex="false"
         jar="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="23.0.3"
         sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
         <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_d28c2cf7d43b44824b0621d60fe6302826fff859.jar" />
     </item>
     <item
-        jar="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_84fc3e20f58fbb2bde3f4a2a5d4b75d1586c0c84.jar" />
-    </item>
-    <item
-        jar="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_a84b2620a96129aec63219bf72a14aac92d7eb0a.jar" />
-    </item>
-    <item
+        is-multidex="false"
         jar="/Users/ishitasinha/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
         jumboMode="false"
+        optimize="true"
         revision="23.0.3"
         sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
         <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_9bcb19e84e7ce623096597b74059a525a8051c3c.jar" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_8cca3ab3fc5e5f152cae4cf4d8b0478ccd1e4596.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishitasinha/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_acf753e72a6d0fecfdd1943fe6958ad559e96e93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_4ee3a4b86ccf30a8d6f070bce70f5b2b8ce875e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_84fc3e20f58fbb2bde3f4a2a5d4b75d1586c0c84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/me.relex/circleindicator/1.1.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="466e486ec23b9da3a7da1d9252eeef449e3bfecd">
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/me.relex-circleindicator-1.1.9_708c2a0c6108ff0aef2a660b5d4d02910e5ccb21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_8816ccd78ff466e42a9fe5f27073b0035f2a4ecb.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="23.0.3"
         sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
         <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_eba5c998271d1b6b4f3b80f1ea9dc0ed9a037e51.jar" />
     </item>
     <item
-        jar="/Users/ishitasinha/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        is-multidex="false"
+        jar="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
         jumboMode="false"
+        optimize="true"
         revision="23.0.3"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_acf753e72a6d0fecfdd1943fe6958ad559e96e93.jar" />
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_a84b2620a96129aec63219bf72a14aac92d7eb0a.jar" />
     </item>
 
 </items>

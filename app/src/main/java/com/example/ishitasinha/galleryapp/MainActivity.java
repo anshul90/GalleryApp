@@ -1,6 +1,7 @@
 package com.example.ishitasinha.galleryapp;
 
 import android.content.Intent;
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
@@ -24,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         drawerButton = (Button) findViewById(R.id.drawer_button);
+        drawerButton.setTypeface(Typeface.createFromAsset(getAssets(), "fonts/copperplate-gothic-bold-regular.ttf"));
         drawerButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -61,5 +63,10 @@ public class MainActivity extends AppCompatActivity {
         viewPager.setAdapter(adapter);
         viewPager.setCurrentItem(0);
         indicator.setViewPager(viewPager);
+    }
+
+    public void textResize(View view) {
+        Intent intent = new Intent(MainActivity.this, TextResizeActivity.class);
+        startActivity(intent);
     }
 }

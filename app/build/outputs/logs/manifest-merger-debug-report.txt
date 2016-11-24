@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:2:1-41:12
+ADDED from /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:2:1-42:12
 	package
 		ADDED from /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:3:5-49
 		INJECTED from /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml
@@ -38,25 +38,12 @@ ADDED from /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/src/main/Andr
 	android:name
 		ADDED from /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:11:19-67
 application
-ADDED from /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:13:5-39:19
-MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+ADDED from /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:13:5-40:19
 MERGED from [com.android.support:design:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:16:9-41
 	android:supportsRtl
@@ -105,28 +92,19 @@ ADDED from /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/src/main/Andr
 		ADDED from /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:37:17-80
 	android:name
 		ADDED from /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:36:17-63
+activity#com.example.ishitasinha.galleryapp.TextResizeActivity
+ADDED from /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:39:9-65
+	android:name
+		ADDED from /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml:39:19-53
 uses-sdk
 INJECTED from /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
 MERGED from [me.relex:circleindicator:1.1.9] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/me.relex/circleindicator/1.1.9/AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support:design:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
 MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.3.0] /Users/ishitasinha/AndroidStudioProjects/GalleryApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion

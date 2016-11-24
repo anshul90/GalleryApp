@@ -36,6 +36,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.ishitasinha.galleryapp.MainActivity" />
         </activity>
+        <activity android:name=".TextResizeActivity"></activity>
     </application>
 
 </manifest>
