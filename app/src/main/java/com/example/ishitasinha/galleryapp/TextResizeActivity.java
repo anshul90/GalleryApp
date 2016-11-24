@@ -29,6 +29,7 @@ public class TextResizeActivity extends AppCompatActivity {
             public void onProgressChanged(SeekBar seekBar, int i, boolean b) {
                 adapter.setRowSize(i);
             }
+
             @Override
             public void onStartTrackingTouch(SeekBar seekBar) {
 
@@ -91,6 +92,9 @@ public class TextResizeActivity extends AppCompatActivity {
                 }
                 if (childView instanceof Button) {
                     ((Button) childView).setTextSize(size);
+                }
+                if (childView instanceof ViewGroup) {
+                    changeTextSize(childView, size);
                 }
             }
         }
